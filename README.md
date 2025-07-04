@@ -14,10 +14,10 @@ Microsoft Excel [Download Here](https://www.microsoft.com/en/microsoft-365/excel
 
 Microsoft Power BI [Douwnload Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - For data transformation
-- For exploratio and analysis
+- For exploration and analysis
 - For data visualisation
 ### Analytical Approach
-- Uderstanding of Business Problem and Given Data
+- Understanding of Business Problem and Given Data
 - Data Importation
 - Data Cleaning and Transformation
 - Data Exploration and Analysis
@@ -46,7 +46,6 @@ Importing my data as a csv file and excel file from my file manager into the Pow
 
 #### Data Cleaning and Transformation
 In this stage, I was able to take my data to the mechanic workshop like my boss would say. I did a number of work on the data which includes.
- - Removal of  empty columns
  - Removal of rows without salary
  - Removal of rows with unindicated departments
  - Assigning generic gender status to employee without gender
